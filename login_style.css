@@ -1,0 +1,7 @@
+body {
+    background-image: url("photo1.jpg");
+    background-color: #cccccc;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
